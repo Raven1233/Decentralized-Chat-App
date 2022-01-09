@@ -1,4 +1,4 @@
-# Decentralized chatting application using Next JS and Tailwind-CSS, using the Moralis.io to access a test chain of the Ethereum blockchain and storage usin Moralis realtime database:-
+# Decentralized chatting application using Next JS and Tailwind-CSS, using the Moralis.io to access a test chain of the Ethereum blockchain and storage using Moralis realtime database:-
 
 This is a decentralized chatting application. It has been developed using Next JS and has been styled using Tailwind-CSS. Moralis.io has been used to access a "Test chain" of the Ethereum blockchain, and the Moralis database feature has been used to store the messages. This app was my introduction to the world of Web 3.0. I do plan to use Web 3.0 technologies more in the future.
 
